@@ -8,5 +8,5 @@
 
 ## Comparar practicas funerarias de Orocovis y Bayamon
 
-- Temas que me gustaría explorar este semestre:Análisis inferencial básico
+- Temas que me gustaría explorar este semestre:Como las religiones y y diferencias sociales se manifiestan en practicas funerarias.
 - Herramientas que quiero aprender: encuestas, mapas y redes
